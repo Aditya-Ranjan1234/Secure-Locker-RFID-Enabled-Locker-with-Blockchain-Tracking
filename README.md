@@ -3,10 +3,10 @@
 Welcome to the Secure Locker project! This repository contains all the resources related to the development and presentation of an RFID-enabled locker system with blockchain tracking, completed as part of the 2nd semester Experiential Learning at RVCE College.
 
 # Authors
-1.Sudhanvar B P
-2.Likith K S
-3.Aditya Ranjan
-4.Samkit Samsukha
+1.Sudhanvar B P \
+2.Likith K S \
+3.Aditya Ranjan \
+4.Samkit Samsukha \
 
 ## Introduction
 
